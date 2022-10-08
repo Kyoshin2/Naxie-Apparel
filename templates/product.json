@@ -11,7 +11,9 @@
           }
         },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {
+          }
         },
         "caption": {
           "type": "text",
@@ -21,7 +23,9 @@
           }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -30,7 +34,9 @@
           }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -39,7 +45,9 @@
           }
         },
         "description": {
-          "type": "description"
+          "type": "description",
+          "settings": {
+          }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
@@ -101,6 +109,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "stacked",
         "media_size": "large",
         "mobile_thumbnails": "hide",
@@ -116,14 +125,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Mission",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p><strong>Our mission is to create a warmer, friendlier, and healthier medical environment by providing dynamic, unique, and state-of-the art products and concepts to help health care workers and their patients<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -133,13 +142,14 @@
         "image-with-text-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/urban-mens-fashion-on-young-adult.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -152,7 +162,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p><strong>Free Shipping <\/strong>Online Shop. Find Quick Results from Multiple Sources. Discover Quality Results. Powerful and Easy to Use. Get More Related Info. Explore the Best Info Now. Find Related Results Now. 100+ Qualitative Results. Services: Best Results, Explore Now, New Sources, Best in Search.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -161,7 +171,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p><strong>Our exchange process is simple and hassle-free. If for any reason you want to exchange your new unworn\/unwashed items, just contact us via email at <\/strong><a href=\"mailto:support@usnforlife.com\"><strong>naxieapparelx@gmail.com.com<\/strong><\/a><strong>or phone at (100) 999-9999 and let us know.  We will send you a link to download a prepaid return shipping label.  Just send your item back to us and as soon as the post office picks it up we'll send your new order out at no charge to you! <\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -181,9 +191,9 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "background-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -193,6 +203,7 @@
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
+        "products_to_show": 4,
         "columns_desktop": 4,
         "color_scheme": "background-1",
         "image_ratio": "square",
