@@ -61,7 +61,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><strong>You’re a brand. I’m a brand. We’re all brands. Brands come in all shapes and sizes. You might be a big company, a small business, or even just a person. It doesn’t matter. If you’re a brand, you need to think about how you can grow your brand, the different audiences you can target, and the things you can do to differentiate yourself from the competition. This book will teach you how to create a compelling story that will attract the right people and grow your brand in a way that’s authentic to you.<\/strong><\/p>"
           }
         }
       },
@@ -134,12 +134,12 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
+        "heading": "HOT COLLECTION",
+        "heading_size": "h1",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
       }
