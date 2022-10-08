@@ -176,7 +176,7 @@
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "subtext": "<p>Every successful clothing and accessory business whether brick-and-mortar or online needs a short, sweet mission statement. Your mission and vision statement tell the world what sets you apart from other manufacturers. Are you hand-crafted, the most unique, or the least expensive. What makes a good business mission statement involves thinking about how you tell people your who, what, why for the clothing and accessories you create.<\/p>"
             }
           }
         },
@@ -186,7 +186,7 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
