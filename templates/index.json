@@ -173,6 +173,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/urban-mens-fashion-on-young-adult.jpg",
             "title": "D NATION",
             "text": "<p>BEST APPAREL NATIONWIDE NAXIE APPAREL<\/p>",
             "link_label": "",
